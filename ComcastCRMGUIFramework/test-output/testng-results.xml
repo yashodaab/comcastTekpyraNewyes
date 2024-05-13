@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T07:53:36Z" name="Suite" finished-at="2024-05-10T07:55:16Z" duration-ms="99279">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.CreateOrgganizationTest()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" name="CreateOrgganizationTest" class="com.comcast.crm.orgaAllTest.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-05-10T07:53:36Z" name="Test" finished-at="2024-05-10T07:55:16Z" duration-ms="99279">
+      <class name="com.comcast.crm.orgaAllTest.CreateOrganizationTest">
+        <test-method is-config="true" signature="configbeforesuit()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:53:36Z" name="configbeforesuit" finished-at="2024-05-10T07:53:36Z" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforesuit -->
+        <test-method is-config="true" signature="configbeforeclass(java.lang.String)[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:53:36Z" name="configbeforeclass" finished-at="2024-05-10T07:53:52Z" duration-ms="15470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:53:52Z" name="beforeMethod" finished-at="2024-05-10T07:54:21Z" duration-ms="29457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateOrgganizationTest()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:54:21Z" name="CreateOrgganizationTest" finished-at="2024-05-10T07:55:10Z" duration-ms="48871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrgganizationTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:55:10Z" name="afterMethod" finished-at="2024-05-10T07:55:15Z" duration-ms="4549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="Afterclass()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:55:15Z" name="Afterclass" finished-at="2024-05-10T07:55:16Z" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:com.comcast.crm.orgaAllTest.CreateOrganizationTest@6c2c1385]" started-at="2024-05-10T07:55:16Z" name="aftersuit" finished-at="2024-05-10T07:55:16Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- com.comcast.crm.orgaAllTest.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
